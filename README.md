@@ -1,5 +1,5 @@
 # Руководство пользователя Beancount
 Это страница верхнего уровня для всей документации, связанной с Beancount.
-http://furius.ca/beancount/doc/index
+<br> http://furius.ca/beancount/doc/index
 
 ## Документация для пользователей
